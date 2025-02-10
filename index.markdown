@@ -3,7 +3,7 @@ layout: comingsoon
 ---
 
 <div class="main" style="background-image: url('./assets/images/video_bg.jpg')">
-        <video id="video_background" preload="auto" autoplay="true" loop="loop" muted="muted" volume="0" class="appl1-hdvd-xx">
+        <video id="video_background" preload="auto" autoplay="true" playsinline="true" playinline="true" loop="loop" muted="muted" volume="0" class="appl1-hdvd-xx">
             <source src="./assets/videos/bandung-gedung-sate.webm" type="video/webm">
             <source src="./assets/videos/bandung-gedung-sate.mp4" type="video/mp4">
             Video not supported
